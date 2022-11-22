@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  
+//
+//  Created by Evi Vandenheede on 18/11/2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+git config --global user.name "<Histories vzw>"
+git config --global user.email "<webmaster@historiesvzw.be>"
